@@ -7,16 +7,16 @@
 # Download
 https://t.me/RdpVpsSellar
 
-•[UPDATE] Main interface
-•[UPDATE] Screen Monitor : Show Lock Screen Without Screen Shot
-•[UPDATE] Screen Reader : Support Screen Control
-•[UPDATE] Screen Reader : Auto Clear Window
-•[UPDATE] More Stable Connection
-•[FIX] Rename Client
-•[FIX] High CPU usage
-•[FIX] High Memory usage
-•[FIX] Screen Monitor Delay
-•[Extra] General Fixes and improvements
+- •[UPDATE] Main interface
+- •[UPDATE] Screen Monitor : Show Lock Screen Without Screen Shot
+- •[UPDATE] Screen Reader : Support Screen Control
+- •[UPDATE] Screen Reader : Auto Clear Window
+- •[UPDATE] More Stable Connection
+- •[FIX] Rename Client
+- •[FIX] High CPU usage
+- •[FIX] High Memory usage
+- •[FIX] Screen Monitor Delay
+- •[Extra] General Fixes and improvements
 
 ## Features
 𝗙𝗶𝗹𝗲 𝗠𝗮𝗻𝗮𝗴𝗲𝗿
@@ -151,3 +151,9 @@ Skeleton view or Scan View
 - ✅Add logo window to copy anything from screen easy
 
 - ✅In Low Price buy for DM
+
+# Screenshot
+
+![App Screenshot](1.png)
+
+![App Screenshot](2.png)
