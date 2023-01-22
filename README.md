@@ -1,4 +1,5 @@
 # CRAXS-RAT-V3-New-Update-2023
+
 🔥CRAXSRAT-LIFETIME🔥
 
 ## Teligram (DEMO VIDEO) https://t.me/FreeRDPvpsBIN/795
@@ -148,3 +149,5 @@ screen
 Skeleton view or Scan View
 - ✅ Bypass black screen of banks and crypto app
 - ✅Add logo window to copy anything from screen easy
+
+- ✅In Low Price buy for DM
